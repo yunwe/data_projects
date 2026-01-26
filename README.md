@@ -13,11 +13,11 @@ This is a repository to showcase skills, share projects and track my progress in
 *  About Me
 *  Portfolio Projects
     *  Python
-        * Logistics Operations: Diagnostic Analysis Report 
+        * [Logistics Operations: Diagnostic Analysis Report ](https://github.com/yunwe/olist-logistics-efficiency)
     *  SQL, Power BI
-        * SaaS Subscription & Churn Analytics 
+        * [SaaS Subscription & Churn Analytics ](./ravenstack)
     *  Power BI
-        * Grocery Sales Analysis
+        * [Grocery Sales Analysis](./grocery_sales/)
 *  Education
 *  Certification
 *  Contact
