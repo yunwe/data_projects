@@ -39,7 +39,7 @@ This project demonstrates the ability to transform raw subscription data into hi
 
 **Project:**  [View Project](./ravenstack/)
 
-**Dashboard:** [Perview](./ravenstack/power_bi/screenshots/pg1.png)
+**Dashboard:** [Perview](./ravenstack/power_bi/screenshots/preview.pdf)
 
 **Tech Stack:** SQL, Power BI
 
