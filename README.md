@@ -22,7 +22,10 @@ Successfully, identified logistic bottlenecks and FIFO performance.
 **Tech Stack:** Python
 
 ### European Real Estate Investment Analysis
-This project involved a comprehensive analysis of the European Real Estate Market to determine optimal investment windows and property profiles. Utilizing a dataset of 5,000 records spanning 10 major European cities over a 5-year period, I transformed raw, multi-dimensional data into an interactive Power BI suite designed for data-driven decision-making.
+This project involved a comprehensive analysis of the European Real Estate Market to determine optimal investment windows and property profiles. 
+Utilizing a dataset of 5,000 records spanning 10 major European cities over a 5-year period, I transformed raw, multi-dimensional data into an interactive Power BI suite designed for data-driven decision-making.
+
+
 The core objective was to answer a critical investor question: "Is now the right time to enter the European market, and if so, where and what should be bought?"
 
 **Project:** [Interactive Project](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/93dee2ec88a39365b335ef9ad1d782c4?challenge=fp20-analytics-march-2026)
