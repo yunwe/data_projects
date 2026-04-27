@@ -45,6 +45,10 @@ University of Computer Studies, Yangon\
 
 
 ## Certifications
+[Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/sawyunwe-9360/credentials/77a3677f28fd1083)\
+Microsoft\
+Feb 2026
+
 [IBM Data Analyst Professional Certificate](https://coursera.org/share/8396e7c02875b297ec89e7e7660b3f7d)\
 IBM, Coursera\
 Dec 2025
