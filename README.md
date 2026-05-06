@@ -30,8 +30,6 @@ The core objective was to answer a critical investor question: "Is now the right
 
 **Project:** [Interactive Project](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/93dee2ec88a39365b335ef9ad1d782c4?challenge=fp20-analytics-march-2026)
 
-**Report:** [View Analysis Report]()
-
 **Tech Stack:** Power BI, DAX, Data Modelling
 
 
