@@ -1,6 +1,6 @@
 # Saw Yu Nwe | Data Analyst
 
-## 👋 About Me
+## About Me
 CS graduate and former game developer with 7 years of industry experience, currently transitioning into Data Analytics and Business Intelligence.
 
 After taking a career break for family responsibilities, I’ve spent the past several months rebuilding my technical foundation with a strong focus on data analysis, visualization, and business insights. I hold the Microsoft PL-300: Power BI Data Analyst certification and actively work with SQL, Python, and Power BI to analyze datasets and build interactive dashboards.
