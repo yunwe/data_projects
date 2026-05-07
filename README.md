@@ -1,13 +1,30 @@
 # Saw Yu Nwe | Data Analyst
 
 ## 👋 About Me
-I am a Software Engineer with 7 years of experience in Game Development, currently pivoting into Data Analytics and Data Science. 
-My background in game programming has given me a deep appreciation for complex systems, real-time logic, and user behavior—which I now apply to uncovering actionable insights through data.
+CS graduate and former game developer with 7 years of industry experience, currently transitioning into Data Analytics and Business Intelligence.
 
-After a 3-year career break to focus on my family, I have returned to the tech landscape with a sharpened focus on **Product Analytics**. 
-I am passionate about how data-driven decisions can optimize product performance and improve user experiences. 
+After taking a career break for family responsibilities, I’ve spent the past several months rebuilding my technical foundation with a strong focus on data analysis, visualization, and business insights. I hold the Microsoft PL-300: Power BI Data Analyst certification and actively work with SQL, Python, and Power BI to analyze datasets and build interactive dashboards.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+I also participate in FP20 Analytics Data Challenges, where I work on real-world datasets across domains such as logistics, retail, and operations. These projects help me strengthen my ability to transform raw data into meaningful KPIs, visual stories, and actionable insights.
+
+Current Focus
+* Data Analytics & Business Intelligence
+* Power BI Dashboard Development
+* SQL & Python for Data Analysis
+* KPI Design & Data Visualization
+* Business and Operational Insights
+* Game Analytics
+
+Background
+* 7 years of professional experience in game development
+* Strong technical and problem-solving foundation
+* Interested in bridging technology, analytics, and business strategy
+
+Languages
+* English CEFR C1 equivalent (IELTS 7.5 achieved in 2018)
+* Japanese (JLPT N3)
+
+Always learning, building, and exploring ways data can improve products, operations, and decision-making.
 
 ## Featured Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -34,6 +51,18 @@ The core objective was to answer a critical investor question: "Is now the right
 
 
 ## Other Projects
+### Procurement Analysis
+This strategic Procurement Dashboard transforms raw data into actionable intelligence across three core pillars. 
+* Spend & Budget monitors financial velocity and variance
+* Supplier Portfolio & Risk evaluates vendor stability and ESG impact
+* Operational Efficiency optimizes delivery performance
+
+**Project:** In Progress
+
+**Preview:** [Preview](procurement/images/placeholder.png)
+
+**Tech Stack:** Power BI, DAX, Data Modelling
+
 ### Grocery Sales Analysis
 The project focused on analyzing grocery sales data in 1997 - 1998, in USA, Mexico, and Canada. The project included cleaning data, and fiding business insights. Successfully identifyied key sales drivers, customer purchasing patterns, and inventory optimization opportunities.
 
