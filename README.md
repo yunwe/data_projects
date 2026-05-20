@@ -57,9 +57,7 @@ This strategic Procurement Dashboard transforms raw data into actionable intelli
 * Supplier Portfolio & Risk evaluates vendor stability and ESG impact
 * Operational Efficiency optimizes delivery performance
 
-**Project:** In Progress
-
-**Preview:** [Preview](procurement/images/placeholder.png)
+**Project:** [Interactive Project](https://app.powerbi.com/view?r=eyJrIjoiMmIwM2FkYTUtYTgyYS00NTlhLWEzNzgtYzI4OTllYjkyOGQ0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 **Tech Stack:** Power BI, DAX, Data Modelling
 
